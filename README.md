@@ -1,7 +1,7 @@
 <table border="0" width="100%">
 <tr>
-<td><img src="MFP-LOGO-3d-lighter-perfect-angle-sun-transparent.png" alt="drawing" width="274" height="214"/></td>
-<td>
+<td style="border:none" width="600px"><img src="MFP-LOGO.png" alt="drawing" width="274" height="214"/></td>
+<td style="border:none">
 <h1>Micro Front End Pool</h1>
 
 </td>
@@ -11,7 +11,7 @@ This is a project that is aimed at the large scale applications where building i
 Core tech stack here is based on Next.js and React App. 
 Next.js is acting as a main entry point and also as a UI Shell, whereas React App is Micro Front End.
 
-What is covered in this project:
+What is covered in this project so far:
  - Main UI Shell with routing
  - Micro Front End App
  - i18n

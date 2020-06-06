@@ -1,6 +1,6 @@
 <table border="0" width="100%">
 <tr>
-<td><img src="MFP-LOGO-3d-lighter-perfect-angle-sun-transparent.png" alt="drawing" width="576" height="324"/></td>
+<td><img src="MFP-LOGO-3d-lighter-perfect-angle-sun-transparent.png" alt="drawing" width="274" height="214"/></td>
 <td>
 <h1>Micro Front End Pool</h1>
 

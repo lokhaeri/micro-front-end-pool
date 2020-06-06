@@ -1,3 +1,3 @@
-![Alt text](./MFP-LOGO-3d-lighter-perfect-angle-sun-transparent.png?raw=true =270x "Logo")
+<img src="MFP-LOGO-3d-lighter-perfect-angle-sun-transparent.png" alt="drawing" width="200"/>
 
-# micro-front-end-pool
+# Micro FrontEnd Pool

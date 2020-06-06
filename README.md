@@ -1,7 +1,7 @@
 <table border="0" width="100%">
 <tr>
-<td style="border:none" width="600px"><img src="MFP-LOGO.png" alt="drawing" width="274" height="214"/></td>
-<td style="border:none">
+<td style="border:none"><img src="MFP-LOGO.png" alt="drawing" width="274" height="214"/></td>
+<td style="border:none" width="600px">
 <h1>Micro Front End Pool</h1>
 
 </td>

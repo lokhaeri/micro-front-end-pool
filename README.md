@@ -19,3 +19,9 @@ What is covered in this project so far:
  What is planned to be covered:
   - Authentication mechanisms (on Node.js side, on client side, and using SSO)
   - Smoke tests
+
+## How to run this thing
+If you want to run all at once then just:
+`docker-compose up --build`
+
+If separately then going to every app and following `README.md`

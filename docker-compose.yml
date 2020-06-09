@@ -1,0 +1,23 @@
+version: '3.7'
+
+services:
+  nextjs:
+    ports:
+      - 5000:3000
+    build:
+      context: ./nextjs-micro-front-end-ui-shell
+      dockerfile: Dockerfile
+  mf_app1:
+    container_name: mf_app1
+    build:
+      context: ./app1
+      dockerfile: Dockerfile
+    ports:
+      - 5001:1234
+  mf_app2:
+    container_name: mf_app2
+    build:
+      context: ./app2
+      dockerfile: Dockerfile
+    ports:
+      - 5002:1234

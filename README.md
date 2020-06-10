@@ -1,12 +1,7 @@
-<table border="0" width="100%">
-<tr>
-<td style="border:none"><img src="MFP-LOGO.png" alt="drawing" width="274" height="214"/></td>
-<td style="border:none" width="600px">
-<h1>Micro Front End Pool</h1>
+<img src="MFP-LOGO.png" alt="drawing" />
 
-</td>
-</tr>
-</table>
+# Micro Front End Pool
+
 This is a project that is aimed at the large scale applications where building in parallel streams is crucial. 
 Core tech stack here is based on Next.js and React App. 
 Next.js is acting as a main entry point and also as a UI Shell, whereas React App is Micro Front End.
